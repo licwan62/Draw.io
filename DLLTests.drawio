@@ -1,5 +1,5 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36 Edg/128.0.0.0" version="24.7.10" pages="4">
-  <diagram name="第 1 页" id="D4wU0TQ4Qilta0GeamIa">
+  <diagram name="isPrime" id="D4wU0TQ4Qilta0GeamIa">
     <mxGraphModel dx="1562" dy="949" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
@@ -97,8 +97,8 @@
       </root>
     </mxGraphModel>
   </diagram>
-  <diagram id="QrMCi6_KQOvnM1jPE4rm" name="Page-2">
-    <mxGraphModel dx="1488" dy="904" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+  <diagram id="QrMCi6_KQOvnM1jPE4rm" name="removeNode">
+    <mxGraphModel dx="1486" dy="904" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -260,8 +260,8 @@
       </root>
     </mxGraphModel>
   </diagram>
-  <diagram id="SLCAViE5iifIenEZD9WV" name="Page-3">
-    <mxGraphModel dx="1562" dy="949" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+  <diagram id="SLCAViE5iifIenEZD9WV" name="removeHead">
+    <mxGraphModel dx="1560" dy="949" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -341,8 +341,8 @@
       </root>
     </mxGraphModel>
   </diagram>
-  <diagram id="30t5ceGpaWLYrvkL6Hi8" name="Page-4">
-    <mxGraphModel dx="1562" dy="949" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+  <diagram id="30t5ceGpaWLYrvkL6Hi8" name="addToHead">
+    <mxGraphModel dx="1560" dy="949" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
